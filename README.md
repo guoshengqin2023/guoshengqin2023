@@ -10,12 +10,7 @@
 
 邮箱：guoshengqin2023@163.com
 
-感想：代码改变世界这句话我还认为是正确的，但我写不出这样代码。
-
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guoshengqin2023)](https://github.com/anuraghazra/github-readme-stats)
-
+感想：工作几年后，代码改变世界这句话我还认为是正确的，但我写不出这样代码。
 
 <!-- 语言统计排名 -->
 <!-- <div align="center">
